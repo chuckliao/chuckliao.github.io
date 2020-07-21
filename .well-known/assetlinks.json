@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.wallpaperdeeplink",
+    "sha256_cert_fingerprints":
+    ["27:72:C2:68:0B:36:20:FB:56:C0:F1:C7:78:E0:02:D3:BA:23:8D:7E:8F:19:B8:F2:49:21:52:CD:1C:CF:58:9E"]
+  }
+}]
